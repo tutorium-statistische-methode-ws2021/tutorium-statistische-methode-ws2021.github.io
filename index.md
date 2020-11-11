@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Tutorium zum Kurs Statistische Methoden in der Sprachverarbeitung, WS20/21
+- Tutorin: Suteera  Seeha 
+- Kontakt: [s.seeha@campus.lmu.de](s.seeha@campus.lmu.de)
 
-You can use the [editor on GitHub](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Info
+- [Vorlesungsseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
+- Das tutorium findet immer freitags, 10:15 - 11:45 per Zoom statt.
+- Den Zoomlink wurde per E-Mail an Teilnehmer mitgeteilt.
 
-### Markdown
+### Materialien
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Date       | Slide          | Note |
+| ------------- |:-------------:| -----:|
+| 13.11.2020      |  |  |
+| 20.11.2020     |       |   |
+| 27.11.2020 |      |    |
