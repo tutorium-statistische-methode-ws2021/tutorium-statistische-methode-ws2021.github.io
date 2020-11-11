@@ -1,12 +1,12 @@
 ## Tutorium zum Kurs Statistische Methoden in der Sprachverarbeitung, WS20/21
 - Tutorin: Suteera  Seeha 
-- Kontakt: [s.seeha@campus.lmu.de](s.seeha@campus.lmu.de)
+- Kontakt: s.seeha@campus.lmu.de
 
 
 ### Info
 - [Vorlesungsseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
 - Das tutorium findet immer freitags, 10:15 - 11:45 per Zoom statt.
-- Den Zoomlink wurde per E-Mail an Teilnehmer mitgeteilt.
+- Den Zoomlink wurde per E-Mail an den Teilnehmer mitgeteilt.
 
 ### Materialien
 
