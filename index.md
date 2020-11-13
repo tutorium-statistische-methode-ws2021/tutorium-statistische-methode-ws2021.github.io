@@ -7,7 +7,7 @@
 - [Vorlesungsseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
 - Das tutorium findet freitags, 10:15 - 11:45 per Zoom statt.
 - Den Zoomlink wurde per E-Mail an den Teilnehmer mitgeteilt.
-- Fragensammlung: https://tutorium-statistische-methode-ws2021.github.io/
+- Fragensammlung: https://docs.google.com/document/d/1hSTtDnCD4haLUXybEkNCLI_tYMLDx-FZaZDUp34aP9U/edit
 
 ### Materialien
 
