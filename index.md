@@ -9,6 +9,7 @@
 - Den Zoomlink wurde per E-Mail an den Teilnehmer mitgeteilt.
 - [Fragensammlung](https://docs.google.com/document/d/1hSTtDnCD4haLUXybEkNCLI_tYMLDx-FZaZDUp34aP9U/edit) : Schreibe eure Fragen hier am besten 1-2 Tage bevor dem Tutorium. Danke!
 - [Wunschliste](https://docs.google.com/document/d/1KWWZQjQr_h4n8rptCKLz67phYf0XHoNiM44-MTAWvig/edit?usp=sharing): Wunsche und Feedback
+- Discord-Server von CIS Studenten: https://discord.gg/Ph9D7mM
 
 ### Materialien
 
