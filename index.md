@@ -16,7 +16,6 @@
 | Date       | Slide          | Note |
 | ------------- |:-------------:| -----:|
 | 13.11.2020| [tutorium_1](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Tutorium_1.pdf)|  |
-| 20.11.2020 | [Markov_Model](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Markov_model.pdf)
-[Example_code_markov_model](https://raw.githubusercontent.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/main/markov_model_example.py)|   |
+| 20.11.2020 | [Markov_Model](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Markov_model.pdf)[Example_code_markov_model](https://raw.githubusercontent.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/main/markov_model_example.py)|   |
 | 27.11.2020 |      |    |
 | ....|      |    |
