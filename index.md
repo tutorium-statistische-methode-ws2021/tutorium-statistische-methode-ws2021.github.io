@@ -19,6 +19,13 @@
 | 20.11.2020 | [Markov_Model](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Markov_model.pdf)|   |
 | |[Example_code_markov_model](https://raw.githubusercontent.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/main/markov_model_example.py) | |
 | ....| [Klausur_Aufgabe_Backoff](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Example_smoothing.pdf)    |    |
-| 27.11.2020 |      |    |
-| ....|      |    |
+| 27.11.2020 | [quizes_backoff.odp](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff.odp)      |    |
+| ....| [](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff_%C3%BCbung.odp)      |    |
+| ....| [chi_squared_test.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/chi_squared_test.pdf)     |    |
+| ....| [explain_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_backoff.pdf)     |    |
+| ....|[explain_übung4.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_%C3%BCbung4.pdf)      |    |
+|.....| [quiz_probablity](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quiz_probablity.odp)  |    |
+|.....|  [entropy.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/entropy.pdf)  |    |
+|.....|   |    |
+
 
