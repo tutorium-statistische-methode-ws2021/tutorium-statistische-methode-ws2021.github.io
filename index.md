@@ -24,7 +24,7 @@
 | ....| [Übung_Klausur_Backoff.odp](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff_%C3%BCbung.odp)      | newly added   |
 |.....| [Übung_Klausur_Backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff_%C3%BCbung.pdf)  |  pdf  |
 | ....| [chi_squared_test.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/chi_squared_test.pdf)     |    |
-| ....| [explain_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff.pdf)     |    |
+| ....| [explain_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_backoff.pdf)     |    |
 | ....|[explain_übung4.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_%C3%BCbung4.pdf)      |    |
 |.....| [quiz_probablity.odp](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quiz_probablity.odp)  |    |
 |.....| [quiz_probablity.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quiz_probablity.pdf)  | pdf   |
