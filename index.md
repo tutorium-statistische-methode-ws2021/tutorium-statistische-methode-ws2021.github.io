@@ -20,8 +20,10 @@
 | |[Example_code_markov_model](https://raw.githubusercontent.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/main/markov_model_example.py) | |
 | ....| [Klausur_Aufgabe_Backoff(edited 27.11.20)](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Example_smoothing_edited.pdf)    | Please download the new version of this file. I corrected a small mistake in the solution.|
 | 27.11.2020 | [quizes_backoff.odp](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff.odp) |    |
-|.....| [quizes_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/blob/main/quizes_backoff.pdf)  |  pdf Datei  |
+|.....| [quizes_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/blob/main/quizes_backoff.pdf)  |  pdf|
 | ....| [Übung_Klausur_Backoff](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff_%C3%BCbung.odp)      | newly added   |
+|.....| [Übung_Klausur_Backoff pdf](
+https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/quizes_backoff_%C3%BCbung.pdf)  |  pdf  |
 | ....| [chi_squared_test.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/chi_squared_test.pdf)     |    |
 | ....| [explain_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_backoff.pdf)     |    |
 | ....|[explain_übung4.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_%C3%BCbung4.pdf)      |    |
