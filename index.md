@@ -31,7 +31,11 @@
 |4.12.2020|[word_sense_disambi.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/word_sense_disambi.pdf)   |    |
 |.....| [HMM.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/HMM.pdf)  |    |
 | ....| [explain_backoff.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/explain_backoff.pdf)     |  reuploaded  |
-|.....|   |    |
+|11.12.2020|[EM.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/EM.pdf)   |    |
+|.....|[HMM_quiz_and_answer.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/HMM_quiz_and_answer.pdf)   |    |
+|.....|[Viterbi_slide.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Viterbi_slide.pdf)   |    |
+|.....|[Viterbi_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Viterbi_explain.pdf)   |    |
+|.....|[uebung7_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/uebung7_explain.pdf)   |    |
 
 
 
