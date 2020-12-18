@@ -41,7 +41,9 @@
 |......|[parser_altklausuren.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_altklausuren.pdf)     |      |
 |......|[parser_baumbank.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_baumbank.pdf)     |      |
 |......| [parser_inside_algo.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_inside_algo.pdf)    |      |
-|......|     |      |
+|25.12.2020| kein Tutorium ,frohe weihnachten 🎄   |      |
+|1.1.2021| kein Tutorium    |      |
+|8.1.2021|  Tutorium findet wieder statt  |      |
 |......|     |      |
 
 
