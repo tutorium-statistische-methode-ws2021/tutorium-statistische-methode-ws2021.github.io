@@ -36,6 +36,8 @@
 |.....|[Viterbi_slide.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Viterbi_slide.pdf)   |    |
 |.....|[Viterbi_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Viterbi_explain.pdf)   |    |
 |.....|[uebung7_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/uebung7_explain.pdf)   |    |
+|......|     |      |
+|......|     |      |
 
 
 
