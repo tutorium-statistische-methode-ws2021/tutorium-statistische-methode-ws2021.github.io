@@ -5,7 +5,7 @@
 
 ### Info
 - [Vorlesungsseite](https://www.cis.uni-muenchen.de/~schmid/lehre/StatNLP/)
-- Das tutorium findet freitags, 10:15 - 11:45 per Zoom statt.
+- Das Tutorium findet freitags, 10:15 - 11:45 per Zoom statt.
 - Den Zoomlink wurde per E-Mail an den Teilnehmer mitgeteilt.
 - [Fragensammlung](https://docs.google.com/document/d/1hSTtDnCD4haLUXybEkNCLI_tYMLDx-FZaZDUp34aP9U/edit) : Schreibt eure Fragen hier am besten 1-2 Tage bevor dem Tutorium. Danke!
 - [Wunschliste](https://docs.google.com/document/d/1KWWZQjQr_h4n8rptCKLz67phYf0XHoNiM44-MTAWvig/edit?usp=sharing): Wünsche und Feedback
