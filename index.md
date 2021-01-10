@@ -37,7 +37,7 @@
 |.....|[Viterbi_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Viterbi_explain.pdf)   |    |
 |.....|[uebung7_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/uebung7_explain.pdf)   |    |
 |18.12.2020|[parser_EM.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_EM.pdf)     |      |
-|......|[parser_Parsewald.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_Parsewald.pdf)     |      |
+|......|    |      |
 |......|[parser_altklausuren.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_altklausuren.pdf)     |      |
 |......|[parser_baumbank.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_baumbank.pdf)     |      |
 |......| [parser_inside_algo.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/upload/parser_inside_algo.pdf)    |      |
