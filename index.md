@@ -46,7 +46,7 @@
 |25.12.2020| kein Tutorium ,frohe Weihnachten 🎄   |      |
 |1.1.2021| kein Tutorium    |      |
 |8.1.2021|  Tutorium findet wieder statt  |      |
-|......|     |      |
-
+|......| [parser_evaluation_und_Petrov-Klein.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/parser_evaluation_und_Petrov-Klein.pdf)    |      |
+|......| [parser_Parsewald_update.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/parser_Parsewald_update.pdf)    |     |
 
 
