@@ -51,5 +51,6 @@
 |15.1.21| [Fragen_beantworten_15.1.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/15.1.21.upload/Fragen_beantworten_15.1.21.pdf)   |      |
 |......| [left_corner_example.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/15.1.21.upload/left_corner_example.pdf)   |      |
 |......| [backoff Lesevorschlag](https://web.stanford.edu/~jurafsky/slp3/3.pdf)    |ab Seite 15      |
+|......| (Daniel Jurafsky and James Martin: Speech and Language Processing) [https://web.stanford.edu/~jurafsky/slp3/]    |   Buch zum Lesen   |
 
 
