@@ -54,6 +54,6 @@
 |......| [Daniel Jurafsky and James Martin: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)   |   Buch zum Lesen   |
 |22.2.21| [frage_beantworten_22.2.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_beantworten_22.2.21.pdf)   | Thema: Rechenzeit von Viterbi, Forward-Backward zum Taggern, Bigram Viterbi    |
 |......|  [Frage_bigram_viterbi.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Frage_bigram_viterbi.pdf)  |      |
-|......|    |      |
+|......| [left_corner_code_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/left_corner_code_explain.pdf)   |      |
 
 
