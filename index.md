@@ -52,7 +52,7 @@
 |......| [left_corner_example.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/left_corner_corrected_index.pdf)  | corrected mistake: left corner position starts with 0 (not 1) |
 |......| [backoff Lesevorschlag](https://web.stanford.edu/~jurafsky/slp3/3.pdf)    |ab Seite 15      |
 |......| [Daniel Jurafsky and James Martin: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)   |   Buch zum Lesen   |
-|22.2.21| [frage_beantworten_22.2.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_beantworten_22.2.21.pdf)   | Thema: Rechenzeit von Viterbi, Forward-Backward zum Taggern, Bigram Viterbi    |
+|22.1.21| [frage_beantworten_22.1.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_beantworten_22.1.21.pdf)   | Thema: Rechenzeit von Viterbi, Forward-Backward zum Taggern, Bigram Viterbi    |
 |......|  [Frage_bigram_viterbi.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Frage_bigram_viterbi.pdf)  |      |
 |......| [left_corner_code_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/left_corner_code_explain.pdf)   |      |
 |......|    |      |
