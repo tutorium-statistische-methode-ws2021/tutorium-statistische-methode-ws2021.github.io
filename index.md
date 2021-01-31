@@ -55,7 +55,7 @@
 |22.1.21| [frage_beantworten_22.1.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_beantworten_22.1.21.pdf)   | Thema: Rechenzeit von Viterbi, Forward-Backward zum Taggern, Bigram Viterbi    |
 |......|  [Frage_bigram_viterbi.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Frage_bigram_viterbi.pdf)  |      |
 |......| [left_corner_code_explain.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/left_corner_code_explain.pdf)   |      |
-|......|[Uebung-WS17-18.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Uebung-WS17-18.pdf)    |      |
-|......|    |      |
+|29.1.21|[Uebung-WS17-18.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Uebung-WS17-18.pdf)    |[frage_29.1.21.pdf)](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_29.1.21.pdf)      |
+|......| [parser_altklausuren_loesung.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/parser_altklausuren_loesung.pdf)   |      |
 |......|    |      |
 
