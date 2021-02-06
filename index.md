@@ -58,4 +58,7 @@
 |29.1.21|[Uebung-WS17-18.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Uebung-WS17-18.pdf)    |     |
 |......| [parser_altklausuren_loesung.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/parser_altklausuren_loesung.pdf)   |      |
 |......|[frage_29.1.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_29.1.21.pdf)     |      |
+|5.2.21|    |      |
+|12.2.21|    |      |
+|19.2.21|    | letztes Tutorium     |
 
