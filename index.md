@@ -59,6 +59,7 @@
 |......| [parser_altklausuren_loesung.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/parser_altklausuren_loesung.pdf)   |      |
 |......|[frage_29.1.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/frage_29.1.21.pdf)     |      |
 |5.2.21| [zusammenfassung_statistische_modelle.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/zusammenfassung_statistische_modelle.pdf)    |      |
-|12.2.21|    |      |
+|12.2.21| [Fragen_Antworten_12.2.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Fragen_Antworten_12.2.21.pdf)    |  Entropie, CRF, Viterbi, Forward, Backward    |
+|......| [backoff_ableiten.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/backoff_ableiten.pdf)    | eine Aufgabe über die Ableiting vom Backoff-Faktor   |
 |19.2.21|    | letztes Tutorium     |
 
