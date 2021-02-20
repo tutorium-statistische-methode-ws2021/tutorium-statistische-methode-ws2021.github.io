@@ -62,4 +62,7 @@
 |12.2.21| [Fragen_Antworten_12.2.21.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/Fragen_Antworten_12.2.21.pdf)    |  Entropie, CRF, Viterbi, Forward, Backward    |
 |......| [backoff_herleiten.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/backoff_herleiten.pdf)    | eine Aufgabe über die Herleitung vom Backoff-Faktor   |
 |19.2.21|    | letztes Tutorium     |
+|......|[forward_backward_code_answer.pdf](https://github.com/tutorium-statistische-methode-ws2021/tutorium-statistische-methode-ws2021.github.io/raw/main/forward_backward_code_answer.pdf)    |      |
+
+
 
